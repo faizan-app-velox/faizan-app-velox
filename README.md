@@ -2,89 +2,86 @@
 
   <img src="https://private-user-images.githubusercontent.com/250189053/528480226-39c728d8-5a61-47b0-a24a-ef0debda0198.png" width="100%" alt="AppVelox Banner" />
 
-  # 📱 AppVelox Studio
-  ### High-Performance Flutter Engineering & Architecture
+  <br />
+  <br />
 
-  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-  [![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-4caf50?style=for-the-badge&logo=layers&logoColor=white)](https://github.com/faizan-app-velox)
-  [![Bloc](https://img.shields.io/badge/State-Bloc-512bd4?style=for-the-badge&logo=bloc&logoColor=white)](https://bloclibrary.dev/)
+  # Hi, I'm Faizan 👋
+  ### Lead Flutter Architect @ [AppVelox Studio](https://github.com/faizan-app-velox)
+
+  [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+  [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+  [![Architecture](https://img.shields.io/badge/Architecture-Clean-4caf50?style=for-the-badge&logo=layers&logoColor=white)](https://github.com/faizan-app-velox/appvelox_flutter_enterprise_core)
+  [![State](https://img.shields.io/badge/State-Bloc-512bd4?style=for-the-badge&logo=bloc&logoColor=white)](https://bloclibrary.dev/)
 
   <br />
 
-  **We don't just write code. We build scalable systems.**
+  **I don't just write code. I engineer scalable mobile systems.**
   <br />
-  *Specializing in Clean Architecture, Native Integration, and Enterprise-Grade Flutter Apps.*
+  *Specializing in Enterprise-Grade Flutter Applications, Clean Architecture, and Native Performance.*
 
-  [👇 **Start a Project**](#-contact--hiring) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [📂 **View Portfolio**](#-featured-architecture)
+  [👇 **Hire Me on Upwork**](https://www.upwork.com/) &nbsp;&nbsp; • &nbsp;&nbsp; [📧 **Email Me**](mailto:faizan@appvelox.com) &nbsp;&nbsp; • &nbsp;&nbsp; [💬 **WhatsApp**](https://wa.me/919104861766)
 
 </div>
 
 ---
 
-## 👨‍💻 About AppVelox
+## ⚡ The Engineering Standard
 
-I am **Faizan**, the Lead Engineer behind AppVelox. I help startups and businesses build mobile applications that are **robust, testable, and ready for scale**.
+Many developers deliver code that works *today* but breaks *tomorrow*. At **AppVelox**, I strictly adhere to **Clean Architecture** principles to ensure your app is testable, maintainable, and ready for scale.
 
-Unlike typical freelancers who deliver "spaghetti code," I strictly adhere to **Clean Architecture** principles. This means your app will be easy to maintain, cheaper to update, and resistant to bugs.
+### 🏆 Featured Project: [Enterprise Core Architecture](https://github.com/faizan-app-velox/appvelox_flutter_enterprise_core)
 
-### 🚀 Core Competencies
-* **Advanced State Management:** Expert in `flutter_bloc` and `Cubit` for predictable state flow.
-* **Native-Bridge Logic:** extensive experience interfacing with iOS/Android OS (e.g., `UNUserNotificationCenter`, `AlarmManager`) for features that work even when the app is killed.
-* **CI/CD & DevOps:** Automated testing and deployment pipelines.
-* **Backend Integration:** Seamless REST API, GraphQL, and Firebase integration.
-
----
-
-## 🏆 Featured Architecture
-
-If you want to see the quality of code you will receive, check out our **Enterprise Core** repository. This is the foundation we use for client projects.
-
-### [**📂 AppVelox Flutter Enterprise Core**](https://github.com/faizan-app-velox/appvelox_flutter_enterprise_core)
-> A reference implementation of Clean Architecture using **Bloc, Freezed, Retrofit, and Injectable**.
->
-> * ✅ **Strict Layer Separation** (Domain, Data, Presentation)
-> * ✅ **Internationalization** (EN/ES)
-> * ✅ **Dark/Light Theme System**
-> * ✅ **Functional Error Handling** (Dartz)
+This repository isn't just a project; it is the **blueprint** I use for client success. It demonstrates the exact quality you will receive.
 
 <div align="center">
-  <a href="https://github.com/faizan-app-velox/appvelox_flutter_enterprise_core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan-app-velox&repo=appvelox_flutter_enterprise_core&theme=radical&border_radius=10" alt="Enterprise Core Repo" />
-  </a>
+<a href="https://github.com/faizan-app-velox/appvelox_flutter_enterprise_core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizan-app-velox&repo=appvelox_flutter_enterprise_core&theme=radical&bg_color=0d1117&title_color=03a9f4&icon_color=03a9f4" />
+</a>
 </div>
-
----
-
-## 🛠 Tech Stack
-
-| Core | Architecture | Tools & Utils |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=flutter,dart" /> | **Clean Arch**, MVVM, Domain-Driven Design | **Git**, GitHub Actions, Codemagic |
-| <img src="https://skillicons.dev/icons?i=android,apple" /> | **Bloc**, Provider, Riverpod | **Figma**, Postman, Sentry |
-| <img src="https://skillicons.dev/icons?i=firebase,mysql" /> | **SOLID** Principles, DI (GetIt) | **Jira**, Trello, Slack |
-
----
-
-## 📈 Engineering Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizan-app-velox&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-app-velox&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
----
-
-## 📬 Contact & Hiring
-
-Ready to build something great?
-
-* **Upwork:** [Hire me on Upwork](https://www.upwork.com/) *(Verified Expert)*
-* **Email:** [faizan@appvelox.com](mailto:faizan@appvelox.com)
-* **WhatsApp:** [Chat on WhatsApp](https://wa.me/919104861766)
 
 <br />
 
+| 🧠 **The Brain (Domain)** | 🔌 **The Logic (Data)** | 🎨 **The Look (UI)** |
+| :--- | :--- | :--- |
+| **UseCase Driven** logic | **Retrofit** for Networking | **Flutter Bloc** & Cubit |
+| **Functional Error Handling** (Dartz) | **Injectable** (DI) | **Pixel-Perfect** Animations |
+| **Freezed** Immutable States | **Secure Storage** | **Dark/Light** Theme System |
+
+---
+
+## 🛠 Tech Stack & Arsenal
+
+I use the best tools in the industry to deliver speed and stability.
+
 <div align="center">
-  <sub>© 2025 AppVelox Studio. All rights reserved.</sub>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,firebase,figma,github,gitlab,vscode,postman,sentry,notion" />
+</div>
+
+---
+
+## 📈 Consistency & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizan-app-velox&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=03a9f4&icon_color=03a9f4&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-app-velox&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=03a9f4" height="150" alt="Top Languages" />
+</div>
+
+---
+
+## 🤝 Ready to build something legendary?
+
+Whether you need a full-scale enterprise app or a complex native feature implementation, I am ready to help.
+
+* ✅ **Verified Expert** on Upwork
+* ✅ **Agency Quality** with Freelance Flexibility
+* ✅ **100% Transparency** in Code & Communication
+
+<div align="center">
+  <br />
+  <a href="https://www.upwork.com/">
+    <img src="https://img.shields.io/badge/Hire%20Me%20On-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" height="40" />
+  </a>
+  <br />
+  <br />
+  <sub>© 2025 AppVelox Studio. Built with ❤️ and Flutter.</sub>
 </div>
