@@ -67,7 +67,7 @@ We don't just write code; we deliver **assets**. Here is what you get when you p
 
 | 🛡️ **Solid Architecture** | ⚡ **Native Performance** | 📦 **Full Ownership** |
 | :--- | :--- | :--- |
-| **Clean Architecture** means your app is scalable, testable, and easy to maintain long-term. | We optimize for **60fps** rendering and minimal battery usage using efficient State Management. | You receive **100% of the Source Code**, IP rights, and Figma assets upon completion. |
+| **Clean Architecture** means your app is scalable, testable, and easy to maintain long-term. | We optimize for **60fps** rendering and minimal battery usage using efficient State Management. | You receive **100% of the Source Code** upon completion. |
 
 ---
 
