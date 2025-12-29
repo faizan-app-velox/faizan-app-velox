@@ -59,11 +59,26 @@ I use the best tools in the industry to deliver speed and stability.
 
 ---
 
-## 📈 Consistency & Activity
+---
+
+## 💎 The AppVelox Standard
+
+We don't just write code; we deliver **assets**. Here is what you get when you partner with us:
+
+| 🛡️ **Solid Architecture** | ⚡ **Native Performance** | 📦 **Full Ownership** |
+| :--- | :--- | :--- |
+| **Clean Architecture** means your app is scalable, testable, and easy to maintain long-term. | We optimize for **60fps** rendering and minimal battery usage using efficient State Management. | You receive **100% of the Source Code**, IP rights, and Figma assets upon completion. |
+
+---
+
+## 🔄 Our Engineering Process
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizan-app-velox&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=03a9f4&icon_color=03a9f4&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-app-velox&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=03a9f4" height="150" alt="Top Languages" />
+
+| 1️⃣ **Blueprint** | 2️⃣ **Build** | 3️⃣ **Refine** | 4️⃣ **Launch** |
+| :---: | :---: | :---: | :---: |
+| Requirement Analysis<br>Database Schema<br>UI/UX Wireframes | **Flutter Bloc** Setup<br>API Integration<br>Unit Testing | UI Polish<br>Performance Tuning<br>Device Testing | App Store Submission<br>CI/CD Pipelines<br>Post-Launch Support |
+
 </div>
 
 ---
