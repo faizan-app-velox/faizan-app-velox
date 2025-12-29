@@ -19,7 +19,7 @@
   <br />
   *Specializing in Enterprise-Grade Flutter Applications, Clean Architecture, and Native Performance.*
 
-  [👇 **Hire Me on Upwork**](https://www.upwork.com/) &nbsp;&nbsp; • &nbsp;&nbsp; [📧 **Email Me**](mailto:faizan@appvelox.com) &nbsp;&nbsp; • &nbsp;&nbsp; [💬 **WhatsApp**](https://wa.me/919104861766)
+  [👇 **Hire Me on Upwork**](https://www.upwork.com/freelancers/~014d84a7bb310090ea) &nbsp;&nbsp; • &nbsp;&nbsp; [📧 **Email Me**](mailto:faizan@appvelox.com) &nbsp;&nbsp; • &nbsp;&nbsp; [💬 **WhatsApp**](https://wa.me/919104861766)
 
 </div>
 
@@ -93,7 +93,7 @@ Whether you need a full-scale enterprise app or a complex native feature impleme
 
 <div align="center">
   <br />
-  <a href="https://www.upwork.com/">
+  <a href="https://www.upwork.com/freelancers/~014d84a7bb310090ea/">
     <img src="https://img.shields.io/badge/Hire%20Me%20On-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" height="40" />
   </a>
   <br />
