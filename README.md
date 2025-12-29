@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://private-user-images.githubusercontent.com/250189053/528480226-39c728d8-5a61-47b0-a24a-ef0debda0198.png" width="100%" alt="AppVelox Banner" />
+  <img src="https://private-user-images.githubusercontent.com/250189053/528480226-39c728d8-5a61-47b0-a24a-ef0debda0198.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY5OTUwNTMsIm5iZiI6MTc2Njk5NDc1MywicGF0aCI6Ii8yNTAxODkwNTMvNTI4NDgwMjI2LTM5YzcyOGQ4LTVhNjEtNDdiMC1hMjRhLWVmMGRlYmRhMDE5OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyOVQwNzUyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYWM3M2U3MDFjMTkwZGJmN2YzZTdmYzg5MTY4MzE2NzZhMThjODMxYTJmMDUzMzA3YjVjMzc3YTgxNGNmNjY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hErgktyb7EFnT1KiEB7yOZWM2RRrJ9f5S91ERGstJTc" width="100%" alt="AppVelox Banner" />
 
   <br />
   <br />
